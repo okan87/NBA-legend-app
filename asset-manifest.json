@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NBA-legend-app/static/css/main.a94d3ca2.css",
+    "main.js": "/NBA-legend-app/static/js/main.5ae957b9.js",
+    "static/media/nba.jpg": "/NBA-legend-app/static/media/nba.15f429bce22dc6fcb3e1.jpg",
+    "index.html": "/NBA-legend-app/index.html",
+    "main.a94d3ca2.css.map": "/NBA-legend-app/static/css/main.a94d3ca2.css.map",
+    "main.5ae957b9.js.map": "/NBA-legend-app/static/js/main.5ae957b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a94d3ca2.css",
+    "static/js/main.5ae957b9.js"
+  ]
+}
